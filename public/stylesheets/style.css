@@ -1,6 +1,6 @@
 :root {
-    --primary-color: #6F1E51;
-    --primary-hover: #B53471;
+    --primary-color: #9DC88D;
+    --primary-hover: #4D774E;
 }
 
 * {
@@ -13,7 +13,7 @@ body, html, input, textarea {
     padding: 0;
     margin: 0;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: #333;
+    color: #164A41;
 }
 
 a {
@@ -143,11 +143,11 @@ main {
 }
 
 .delete-post-btn {
-    background-color: #d41414;
+    background-color: #F1B24A;
 }
   
   .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: #F1B24A;
 }
 
 .post {
