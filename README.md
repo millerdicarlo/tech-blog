@@ -1,7 +1,7 @@
 # tech-blog
 
 ## Project Description
-This application
+A CMS-style blog site for developers who writes about tech. Allows users to publish articles, blog posts, and thoughts/opinions.
 
 ## Table of Contents
 [Description](#project-description)
